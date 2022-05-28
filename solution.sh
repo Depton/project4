@@ -10,6 +10,7 @@ then
 else
 	echo "price is bad and unacceptable"
 fi
+# add more statement and commands
 
 
 
